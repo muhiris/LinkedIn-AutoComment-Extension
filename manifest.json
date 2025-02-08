@@ -1,7 +1,7 @@
 {
   "manifest_version": 3,
   "name": "LinkedIn Comment Content Extractor",
-  "version": "1.9",
+  "version": "2.1",
   "description": "Extracts content when comment button is clicked",
   "permissions": ["activeTab"],
   "content_scripts": [
