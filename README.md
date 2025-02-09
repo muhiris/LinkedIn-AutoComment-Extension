@@ -1,6 +1,9 @@
 # LinkedIn Comment Extension
 
-A Chrome extension that helps you interact with LinkedIn posts by automatically capturing post content and inserting it into comment fields.
+I built a Chrome extension that dynamically captures LinkedIn post content and fills comments with the same text. Currently, it doesn't integrate with Phind AI, but I have its code. The next step is to send the captured post content to Phind AI, receive a response, and replace the comment content with the AI-generated text. I'm sharing this with the community and looking for contributors to help integrate the API and complete its functionality.
+
+https://github.com/user-attachments/assets/cf16a625-ea85-4a44-9e3c-5c961178fd0b
+
 
 ## Current Features
 
@@ -9,6 +12,9 @@ A Chrome extension that helps you interact with LinkedIn posts by automatically 
 - Inserts the captured content into the comment field
 - Handles LinkedIn's dynamic loading and scrolling behavior
 - Works with multiple posts on the page
+
+
+
 
 ## Planned Features
 
